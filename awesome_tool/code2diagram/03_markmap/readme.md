@@ -1,0 +1,7 @@
+- markmap = markdown + mindmap => 
+- Official doc: https://markmap.js.org/
+- Visualize your Markdown with mindmaps
+- Extension in VS Code
+  - ![alt text](image.png)
+- Example: 
+  - ![alt text](image-1.png)
